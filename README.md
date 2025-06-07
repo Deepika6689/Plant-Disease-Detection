@@ -1,8 +1,21 @@
-# 🌿 Leaf Disease Detection
+# 🌿 Plant Disease Detection
 
-This project focuses on detecting **33 types of leaf diseases** using deep learning and transfer learning techniques. It leverages the power of pre-trained models to classify plant leaf images with high accuracy, providing a powerful tool for modern agriculture and plant health monitoring.
+## 📖 About the Project
+
+**Leaf Disease Detection** is a machine learning application designed to identify and classify **33 different types of leaf diseases** from images. The goal is to provide a fast, efficient, and user-friendly tool that helps farmers, agronomists, and agricultural researchers to detect diseases early, reduce crop loss, and improve yield.
+
+This system is powered by **transfer learning**, utilizing pre-trained CNN architectures like VGG16, ResNet, or EfficientNet. The web-based interface is built with **Streamlit**, allowing users to upload images and get predictions instantly.
 
 ---
+
+### 🔍 Key Features:
+- Detects **33 plant leaf diseases**
+- User-friendly **Streamlit web app**
+- Uses **pre-trained CNNs** for high accuracy
+- **OpenCV** used for image preprocessing
+- Easy to deploy and extend
+
+
 
 ## 🚀 Tech Stack & Tools
 

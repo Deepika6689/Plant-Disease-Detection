@@ -16,11 +16,16 @@ This project focuses on detecting **33 types of leaf diseases** using deep learn
 
 ## 📁 Project Structure
 ```
-├── data/ # Contains training and test datasets
-├── model/ # Pretrained model files (if any)
-├── main.py # Streamlit app for running the model
-├── requirements.txt # List of required libraries
-└── README.md # Project overview
+├── API/             # Contains API-related scripts or modules
+├── Media/           # Store media assets (images, screenshots, etc.)
+├── Training/        # Contains model training scripts and notebooks
+├── README.md        # Project documentation
+├── app.py           # One version of the Streamlit/Flask app
+├── app1.py          # Possibly an alternate or test version of the app
+├── main.py          # Main Streamlit app (entry point)
+├── webapp.py        # Additional or legacy web app version
+├── requirements.txt # List of Python dependencies
+
 ```
 ---
 

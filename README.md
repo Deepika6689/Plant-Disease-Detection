@@ -42,17 +42,6 @@ This system is powered by **transfer learning**, utilizing pre-trained CNN archi
 ```
 ---
 
-## 📦 Installation & Usage
-
-1.Clone the repo and install dependencies:
-```bash
-pip install -r requirements.txt
-```
-2.Run the app using Streamlit:
-```
-streamlit run main.py
-```
-
 📚 Dataset
 The dataset contains:
 
@@ -68,6 +57,17 @@ Integration with mobile camera apps
 Real-time disease alert systems
 
 Integration with weather data and soil info for precision agriculture
+
+## 📦 Installation & Usage
+
+1.Clone the repo and install dependencies:
+```bash
+pip install -r requirements.txt
+```
+2.Run the app using Streamlit:
+```
+streamlit run main.py
+```
 
 🙋‍♀️ Author
 Made with ❤️ by Deepika

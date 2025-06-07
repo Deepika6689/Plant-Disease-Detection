@@ -39,7 +39,9 @@ The leaf disease detection model uses transfer learning with a pre-trained CNN a
 
 🎯 Model Goals:
 Help farmers and agronomists detect plant diseases early
+
 Support smart agriculture initiatives
+
 Promote efficient crop monitoring and treatment
 
 📚 Dataset
@@ -60,5 +62,6 @@ Integration with weather data and soil info for precision agriculture
 
 🙋‍♀️ Author
 Made with ❤️ by Deepika
+
 Feel free to connect or contribute!
 

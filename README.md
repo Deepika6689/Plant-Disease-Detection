@@ -35,13 +35,12 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 🧠 Model Details
-The leaf disease detection model uses transfer learning with a pre-trained CNN architecture (like VGG16, ResNet, or EfficientNet). The final model was fine-tuned on a dataset of 33 disease categories of plant leaves.
+The leaf disease detection model uses transfer learning with a pre-trained CNN architecture like VGG16, ResNet, or EfficientNet. The final model was fine-tuned on a dataset containing 33 leaf disease categories.
 
-📌 Model goals:
-
-Help farmers and agronomists detect issues early
-
+🎯 Model Goals:
+Help farmers and agronomists detect plant diseases early
 Support smart agriculture initiatives
+Promote efficient crop monitoring and treatment
 
 📚 Dataset
 The dataset contains:

@@ -1,0 +1,17 @@
+# Ignore virtual environment
+env/
+
+# Ignore model and binary files
+*.h5
+*.dll
+*.pyd
+*.so
+
+# Ignore Python cache and Jupyter artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/

@@ -51,6 +51,7 @@ Images of healthy and diseased leaves
 33 labeled categories
 
 Preprocessed for training and evaluation
+
 📌 Future Scope
 Integration with mobile camera apps
 

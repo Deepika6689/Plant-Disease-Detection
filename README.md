@@ -2,7 +2,7 @@
 
 ## 📖 About the Project
 
-**Plant Disease Detection** is a machine learning application designed to identify and classify **33 different types of leaf diseases** from images. The goal is to provide a fast, efficient, and user-friendly tool that helps farmers, agronomists, and agricultural researchers to detect diseases early, reduce crop loss, and improve yield.
+**Plant Disease Detection** is a deep learning application designed to identify and classify **33 different types of leaf diseases** from images. The goal is to provide a fast, efficient, and user-friendly tool that helps farmers, agronomists, and agricultural researchers to detect diseases early, reduce crop loss, and improve yield.
 
 This system is powered by **transfer learning**, utilizing pre-trained CNN architectures like VGG16, ResNet, or EfficientNet. The web-based interface is built with **Streamlit**, allowing users to upload images and get predictions instantly.
 

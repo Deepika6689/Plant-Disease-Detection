@@ -26,7 +26,7 @@ This project focuses on detecting **33 types of leaf diseases** using deep learn
 
 ## 📦 Installation & Usage
 
-1. Clone the repo and install dependencies:
+1.Clone the repo and install dependencies:
 ```bash
 pip install -r requirements.txt
 ```

@@ -15,13 +15,12 @@ This project focuses on detecting **33 types of leaf diseases** using deep learn
 ---
 
 ## 📁 Project Structure
-```
+
 ├── data/ # Contains training and test datasets
 ├── model/ # Pretrained model files (if any)
 ├── main.py # Streamlit app for running the model
 ├── requirements.txt # List of required libraries
 └── README.md # Project overview
-```
 ---
 
 ## 📦 Installation & Usage

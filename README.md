@@ -29,14 +29,15 @@ This system is powered by **transfer learning**, utilizing pre-trained CNN archi
 
 ## 📁 Project Structure
 ```
-├── API/             # Contains API-related scripts or modules
-├── Media/           # Store media assets (images, screenshots, etc.)
-├── Training/        # Contains model training scripts and notebooks
-├── README.md        # Project documentation
-├── app.py           # One version of the Streamlit/Flask app
-├── app1.py          # Possibly an alternate or test version of the app
-├── main.py          # Main Streamlit app (entry point)
-├── webapp.py        # Additional or legacy web app version
+├── API/       # Contains API-related scripts or modules
+├── Media/     # Store media assets (images, screenshots, etc.)
+├── Training/  # Contains model training scripts and notebooks
+├── .gitignore # Specifies intentionally untracked files to ignore
+├── README.md  # Project documentation
+├── app.py     # One version of the Streamlit/Flask app
+├── app1.py    # Possibly an alternate or test version of the app
+├── main.py    # Main Streamlit app (entry point)
+├── webapp.py  # Additional or legacy web app version
 ├── requirements.txt # List of Python dependencies
 
 ```
